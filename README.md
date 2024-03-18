@@ -9,6 +9,7 @@ are more present in universities, where they have people with a better understan
 programing and computing, and a bigger number of volunteers. And by that they can
 approximate the emotions values based on a large group with similar EEG values generated from
 the same stimulus.
+
   The presented project is trying to findthe emotions of a person via their EEG signals.
 It’s also an educational project, by being simple
 enough to be able to make it without machine learning algorithms but difficult enough to push
@@ -19,5 +20,6 @@ The intention of this project is to make people aware of the way their emotions 
 similarities with others and the differences between them. There is no need for very precise
 equipment to do small college experiments and to draw scientific conclusions, but of course the
 more precise the better.
+
   As a conclusion, of the role the project has in the entire field, it is a great way to enter the
 field of Electroencephalography by learning and playing with it.
